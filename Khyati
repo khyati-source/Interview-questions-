@@ -1,0 +1,121 @@
+Company --capgemini
+11/09/2025
+4:30 pm
+Duration: 45 minutes 
+First round questions:
+
+1. Daily Activities as a DevOps Engineer
+2. What is the public subnet and private subnet 
+3. How to connect a Private Subnet from a Public Subnet
+4. When your SSH session is timing out how to debug it
+5. Explain K8s architecture 
+6. how to take Terraform code and integrate it to AWS.
+7. If you have 100 AWS accounts but you only want Terraform to deploy into one specific account,how to do??
+8. Should you share your access key & secret key with team members?
+9. If you save credentials in environment variables (AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY)can anyone access or read it?
+10. Why do you want to switch the company 
+11. Did you work in ci cd pipeline 
+12. Do you know GitHub action
+13. What is cold start in lambda function 
+14. If I want to delete the files in s3 bucket after 30 days how to delete it automatically??
+
+==========================================================================================
+
+Company --wipro
+12/09/2025
+2:15 pm
+Duration: 45 minutes 
+
+First round questions:
+1 -- what is pod and what is container
+2 -- what is state file in terraform 
+3-- what is inventory in ansible
+4-- what is configmap n secrets in k8s
+5---how to secure the k8s cluster
+6-- what is variables in terraform 
+7-- what is roles in ansible
+8-- why terraform is used instead of cloud formation,AWS cli 
+9-- what is drift in terraform 
+11- what is apply and plan in k8s
+12-- what is terraform 
+13-- why devops is important 
+14-- what is the role in your company
+
+
+==========================================================================================
+
+Company - Sony
+Date - 12/09/2025
+Time - 4;30 pm - 5;30 pm
+Company - Sony
+Date - 12/09/2025
+Time - 4;30 pm - 5;30 pm
+1--Write a script to find a pattern from a log file. if the pattern appears more than 5 times in a minute drop an email.
+2--how to copy an artifact from one stage (say Stage 1) to Stage 5 in ci cd pipeline
+3--what is statefulset and daemonset controller?
+4--what is step by step on the end-to-end flow of launching an application in Kubernetes
+5--what is Hard Link n soft link
+6--how to check load in bash
+7--what types of load balancer?
+8--what is daemonset controller?
+9--If you have 10 nodes and want 1 Pod on each node without daemonset controller?
+10--what is podAntiAffinity n topologySpreadConstraints
+11- what are the types of antiaffinity
+12--what is taint n toleration
+13--what is node affinity n pod affinity
+14--how to  objects (logs/artifacts) from only one particular pod on node n to end up in S3?
+15-- what is sla sli and slo
+16 -- difference between sre role and devops role
+
+
+
+==========================================================================================
+
+
+Company - ACL
+Date - 12/09/2025
+Time - 8:00  pm 
+
+1-- write terraform code for S3 bucket with versioning and encryption 
+2--Write jenkins pipeline for passing dynamic variables in kubernetes
+
+
+==========================================================================================
+
+
+
+
+
+
+Company -- Microland
+Date: 13/09/2025
+Time : 3:30 pm
+
+1 --what technologies did you work on in your project
+2 what linux bash scripting experience do you have
+3 do you have experience in shell scripting, patching, troubleshooting 
+4 how many years experience do you have on windows and Linux
+5 how are you doing patching activities for linux or windows server
+6 what tools did you use for patching activities 
+7 do you have experience working on azure
+8 Do you have any idea why swap usage is high despite free ram
+9 what is the reason for high swap usage despite free ram
+10 why the cron job is not running how to debug it
+11 what is vpc endpoint 
+12 different types of vpc endpoints 
+13 what is the default encryption method of s3 buckets 
+14 how to configure multiple regions on one provider block in terraform 
+15 what are the meta arguments in terraform 
+16 how do you troubleshoot a slow windows server
+17 what is your day to day job on AWS and terraform 
+18 what specific updates do you make to terraform scripts
+19 what major issue did you encounter during pipeline integration
+
+
+
+
+
+
+
+
+
