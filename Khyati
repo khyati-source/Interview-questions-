@@ -113,9 +113,58 @@ Time : 3:30 pm
 
 
 
+1. Kubernetes clusters
+2. How to debug pods?
+3. How to ensure that a pod gets attached to a particular node?
+4.Volume attached to a pod is piled up. How to debug ?
+5. How do u normally attach volumes? Have u done manually ?
+6.How do u imprt custom metrics into Prometheus?
+7. Created any monitoring dashboards?
+8. Python function which takes n number of arguments, the number of arguments can be of any type and any number of arguments can be passed to that function.Function logic has to verify what is the data type of each argument and return the arguments as a list 
+9.Write a terraform script to launch a lmbda function associated with a VPC triggered using sqs
+10.DEployment controllers
+11. SLA and SLO
+12. Qualify using numbers how do you show system stability 
+13. Specific monitoring for a pod possible ?
+14.How do you verify if a pod was restarting or the cron job was getting triggered properly or not in EKS?
+15. Alarms in AWS?
+16.manage and attach worker node pools in an EKS
 
 
 
 
 
+
+Company -- Mphasis 
+Date: 16/09/2025
+Time : 2:30 pm
+
+1. Which one is your strength area?
+    2.  What are the different ways in which you can launch an EKS cluster?
+ 3. Which is the fastest way to launch an EKS cluster?
+4. How do I connect my GitHub Actions workflows to my EKS cluster so I can deploy apps directly from GitHub?”
+5. on the EKS part, what is happening is that the connection between the KPA server and the FCD is going for TOS. And the connection between different FCD peer members is also going for TOS.how it will be managed 
+6. On the XTD, it is going perforce. We have seen in the logs. The Q-Reface logs or in the XTD logs, we have seen that the connection between these two components is going perforce. Okay. It is breaking. Yeah. What could be the possible issues?
+7.  Kubelet t presents a certificate to QBFS server. There is a common name as system service accounts and then colon nodes, right?So, what does it mean, like, in terms of, if it presents a certificate like this? What power does kubelet get?
+8. What is PDB? Pod Disruption Measurement
+9. This is a scenario-based function. There is a stateful set. There are multiple stateful sets. There are 10 to 20 stateful sets that are required in a cluster. You need to make sure that when they are getting attached to a PVC , they are not getting any volume attachments. They may get, but you need to make sure that they don't get the volume attachments when they are getting bound to the node.  How can you minimize this?
+10. in my eks cluster  I have set up a third-party tool for auto-scaling. Now, I am not using  auto-scaler. So, what is happening is that when I am using that as a solution for auto-scaling, there are certain images which are being taken from docker.io. And there are certain images that are taken from the registry So, now, there are like 40 to 50 images that are being used by docker.io. Suddenly, you start to face the issue when there are images for docker.io. When scaling happens, you suddenly start facing image pull issues with docker.io images.
+12. How do you reduce Docker image size?”
+13. What are Distroless Images?
+14. what are the different types of variables apart from number and string, apart from string and number? What are the different types of variables in Terraform?
+15. What is the use of 4-underscore-each in variable 
+16. What is the Java container runtime you are using?
+17. Which version did you use for jenkins 
+18. What are the issues that you can debug in jenkins pipeline and how will you address them?
+19. In general, when you read a Jenkins URL, the page is getting loaded very slow, and if you click on certain tab like Manage credentials or something like that, you get a very slow response. So that's what we're about to demonstrate?
+20. What's Garbage collection 
+21. How to fix garbage collection issue
+22. Can You Monitor Garbage Collection (GC) in Jenkins?
+23. What are the Possible Ways to Reduce Build Time
+24. Why to divide your Jenkins job into multiple stages? Like stage A, stage B, stage C, right? So, people do say that please divide the job into multiple stages.why?
+25. What is terraform taint
+26. How to delete all builds or files once for 30 days in jenkins and using bash script 
+27. What is echo $?
+28. How to delete the files that are older than 3 months.
+29. There is a variable = 1.2.3 What I need to do is that I need to make this variable value from 1.2.3 to 1.2.4.But now when I should print this variable, it should print me as 1.2.4
 
